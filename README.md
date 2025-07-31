@@ -64,7 +64,7 @@ The dashboard provides a comprehensive and interactive analysis of key retail bu
 * **Visuals:** Bar charts, line chart, stacked duration bars.
 * **Insights:** Evaluates campaign effectiveness and compares which channels contributed most to campaign success.
 
-![Campaign & Channel Performance](Previews/Campaign&ChannelPerformance.PNG)
+![Campaign & Channel Performance](Previews/Campaign&ChannelPerformance.png)
 
 ---
 
